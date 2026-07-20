@@ -1,3 +1,3 @@
 # DamodarB2
-This is demo program
+This is demo project
 Autor : Nilaya
